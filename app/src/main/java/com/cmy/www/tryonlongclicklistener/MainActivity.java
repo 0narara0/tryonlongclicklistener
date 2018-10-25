@@ -31,6 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
                 break;
 
         }
-        return true;
+        return false;
     }
 }
